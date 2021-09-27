@@ -1,2 +1,2 @@
-# Farid Retail Manager
+# Farid Retails Manager
 Retail Management System
