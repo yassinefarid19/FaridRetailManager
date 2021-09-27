@@ -1,0 +1,2 @@
+# FaridRetailManager
+Retail Management System
